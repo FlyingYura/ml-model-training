@@ -2,7 +2,7 @@
 
 Train, evaluate, and tune classifiers to predict asthma diagnosis from patient features.
 
-## What this lab covers
+## What this project covers
 
 - Problem framing: binary classification (`diagnosis`)
 - Baselines: **Logistic Regression**, **Random Forest**, **Gradient Boosting**
